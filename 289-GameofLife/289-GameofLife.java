@@ -1,4 +1,4 @@
-// Last updated: 9/2/2026, 1:47:46 PM
+// Last updated: 9/2/2026, 1:48:57 PM
 1class Solution {
 2    public void gameOfLife(int[][] board) {
 3        int m = board.length;
